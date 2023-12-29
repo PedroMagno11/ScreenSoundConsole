@@ -1,6 +1,6 @@
 # ScreenSoundConsole (C# - Visual Studio 2022)
 
-Este é um aplicativo de console em C# que se conecta à API [API de Músicas](https://guilhermeonrails.github.io/api-csharp-songs/songs.json) para buscar e exibir informações sobre música por gênero musical, artista, sucessos de determinado ano e tom de cada música, além de permitir aos usuários gerenciar uma lista de músicas favoritas e exportá-las para um arquivo JSON.
+Este é um aplicativo de console em C# que se conecta à [API de Músicas](https://guilhermeonrails.github.io/api-csharp-songs/songs.json) para buscar e exibir informações sobre música por gênero musical, artista, sucessos de determinado ano e tom de cada música, além de permitir aos usuários gerenciar uma lista de músicas favoritas e exportá-las para um arquivo JSON.
 
 ## Funcionalidades
 
